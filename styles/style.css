@@ -84,8 +84,9 @@
     z-index: 1;
     position: absolute;
     background-color: #2f80ed;
-    top: 54px;
+    top: 0;
     right: 0;
+    margin-top: 64px;
 }
 
 
@@ -350,7 +351,7 @@
 }
 
 .footer__column_content_copyright {
-    min-height: 350px;
+    min-height: 250px;
     flex-basis: 711px;
     display: flex;
     flex-direction: column;
@@ -376,6 +377,7 @@
     font-size: 18px;
     line-height: 25px;
     font-weight: normal;
+    margin-top: 18px;
     margin-bottom: 18px;
 }
 
