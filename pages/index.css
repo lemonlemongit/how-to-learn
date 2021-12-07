@@ -1,0 +1,6 @@
+﻿/* подлючаю сторонние стили: */
+@import url('../vendor/normalize.css');
+
+/* подлючаю блоки: */
+/* подлючаю блок header */
+@import url('../styles/blocks/header/header.css');
