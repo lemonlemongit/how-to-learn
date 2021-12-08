@@ -1,6 +1,86 @@
 ﻿/* подлючаю сторонние стили: */
+
 @import url('../vendor/normalize.css');
 
 /* подлючаю блоки: */
+
+
+/* подлючаю cтили обертки блоков page */
+
+@import url('../styles/blocks/page/page.css');
+
 /* подлючаю блок header */
+
 @import url('../styles/blocks/header/header.css');
+
+/* подлючаю блок description */
+
+@import url('../styles/blocks/description/description.css');
+
+/* подлючаю блок techniques */
+
+@import url('../styles/blocks/techniques/techniques.css');
+
+/* подлючаю блок video */
+
+@import url('../styles/blocks/video/video.css');
+
+/* подлючаю блок oakley */
+
+@import url('../styles/blocks/oakley/oakley.css');
+
+/* подлючаю блок feynman */
+
+@import url('../styles/blocks/feynman/feynman.css');
+
+/* подлючаю блок digits */
+
+@import url('../styles/blocks/digits/digits.css');
+
+/* подлючаю блок khan */
+
+@import url('../styles/blocks/khan/khan.css');
+
+/* подлючаю блок kaufman */
+
+@import url('../styles/blocks/kaufman/kaufman.css');
+
+/* подлючаю блок resources */
+
+@import url('../styles/blocks/resources/resources.css');
+
+/* подлючаю блок footer */
+
+@import url('../styles/blocks/footer/footer.css');
+
+/* подлючаю переиспользуемый блок two-columns */
+
+@import url('../styles/blocks/two-columns/two-columns.css');
+
+/* подлючаю переиспользуемый блок table */
+
+@import url('../styles/blocks/table/table.css');
+
+/* подлючаю переиспользуемый блок cards */
+
+@import url('../styles/blocks/cards/cards.css');
+
+/* подлючаю переиспользуемый микс link */
+
+@import url('../styles/blocks/link/link.css');
+
+/* подлючаю переиспользуемый блок section-title */
+
+@import url('../styles/blocks/section-title/section-title.css');
+
+/* подлючаю переиспользуемый блок section-subtitle */
+
+@import url('../styles/blocks/section-subtitle/section-subtitle.css');
+
+/* подлючаю переиспользуемый микс rotation */
+
+@import url('../styles/blocks/rotation/rotation.css');
+
+/* подлючаю переиспользуемый микс logo */
+
+@import url('../styles/blocks/logo/logo.css');

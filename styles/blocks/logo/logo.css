@@ -1,0 +1,7 @@
+﻿@import url('./_place/logo_place_header.css');
+@import url('./_place/logo_place_footer.css');
+.logo {
+    z-index: 4;
+    display: flex;
+    ;
+}
